@@ -1,0 +1,9 @@
+﻿<Window x:Class="SnowMan.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="О программе" Height="70" Width="300" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="SingleBorderWindow" Icon="/SnowMan;component/Images/box.ico" MaxHeight="70" MaxWidth="300" MinHeight="70" MinWidth="300" Closed="Window_Closed">
+    <Grid>
+        <Label VerticalAlignment="Top" HorizontalAlignment="Center">Эту и другие программы Вы можете найти на сайте</Label>
+        <Label VerticalAlignment="Bottom" HorizontalAlignment="Center">http://www.sacret.ru/</Label>
+    </Grid>
+</Window>

@@ -1,0 +1,36 @@
+E:\Programming\SnowMan\SnowMan\bin\Debug\SnowMan.exe
+E:\Programming\SnowMan\SnowMan\bin\Debug\SnowMan.pdb
+E:\Programming\SnowMan\SnowMan\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Programming\SnowMan\SnowMan\obj\x86\Debug\MainWindow.baml
+E:\Programming\SnowMan\SnowMan\obj\x86\Debug\MainWindow.g.cs
+E:\Programming\SnowMan\SnowMan\obj\x86\Debug\App.g.cs
+E:\Programming\SnowMan\SnowMan\obj\x86\Debug\SnowMan_MarkupCompile.cache
+E:\Programming\SnowMan\SnowMan\obj\x86\Debug\SnowMan.g.resources
+E:\Programming\SnowMan\SnowMan\obj\x86\Debug\SnowMan.Properties.Resources.resources
+E:\Programming\SnowMan\SnowMan\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Programming\SnowMan\SnowMan\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Programming\SnowMan\SnowMan\obj\x86\Debug\SnowMan.exe
+E:\Programming\SnowMan\SnowMan\obj\x86\Debug\SnowMan.pdb
+E:\Programming\SnowMan\SnowMan\obj\x86\Debug\Window1.baml
+E:\Programming\SnowMan\SnowMan\obj\x86\Debug\Window1.g.cs
+C:\Documents and Settings\Kozaeva_AG\Мои документы\Visual Studio 2010\Projects\SnowMan\SnowMan\obj\x86\Debug\SnowMan.exe
+C:\Documents and Settings\Kozaeva_AG\Мои документы\Visual Studio 2010\Projects\SnowMan\SnowMan\obj\x86\Debug\SnowMan.pdb
+C:\Documents and Settings\Kozaeva_AG\Мои документы\Visual Studio 2010\Projects\SnowMan\SnowMan\bin\Debug\SnowMan.exe
+C:\Documents and Settings\Kozaeva_AG\Мои документы\Visual Studio 2010\Projects\SnowMan\SnowMan\bin\Debug\SnowMan.pdb
+C:\Documents and Settings\Kozaeva_AG\Мои документы\Visual Studio 2010\Projects\SnowMan\SnowMan\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kozaeva_AG\Мои документы\Visual Studio 2010\Projects\SnowMan\SnowMan\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\Kozaeva_AG\Мои документы\Visual Studio 2010\Projects\SnowMan\SnowMan\obj\x86\Debug\Window1.baml
+C:\Documents and Settings\Kozaeva_AG\Мои документы\Visual Studio 2010\Projects\SnowMan\SnowMan\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\Kozaeva_AG\Мои документы\Visual Studio 2010\Projects\SnowMan\SnowMan\obj\x86\Debug\Window1.g.cs
+C:\Documents and Settings\Kozaeva_AG\Мои документы\Visual Studio 2010\Projects\SnowMan\SnowMan\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\Kozaeva_AG\Мои документы\Visual Studio 2010\Projects\SnowMan\SnowMan\obj\x86\Debug\SnowMan_MarkupCompile.cache
+C:\Documents and Settings\Kozaeva_AG\Мои документы\Visual Studio 2010\Projects\SnowMan\SnowMan\obj\x86\Debug\SnowMan.g.resources
+C:\Documents and Settings\Kozaeva_AG\Мои документы\Visual Studio 2010\Projects\SnowMan\SnowMan\obj\x86\Debug\SnowMan.Properties.Resources.resources
+C:\Documents and Settings\Kozaeva_AG\Мои документы\Visual Studio 2010\Projects\SnowMan\SnowMan\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Kozaeva_AG\Мои документы\Visual Studio 2010\Projects\SnowMan\SnowMan\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Kozaeva_AG\Мои документы\Visual Studio 2010\Projects\SnowMan\SnowMan\obj\x86\Debug\Window2.baml
+C:\Documents and Settings\Kozaeva_AG\Мои документы\Visual Studio 2010\Projects\SnowMan\SnowMan\obj\x86\Debug\Window2.g.cs
+C:\Documents and Settings\Kozaeva_AG\Мои документы\Visual Studio 2010\Projects\SnowMan\SnowMan\bin\Debug\SnowMan.exe.config
+E:\Programming\SnowMan\SnowMan\bin\Debug\SnowMan.exe.config
+E:\Programming\SnowMan\SnowMan\obj\x86\Debug\Window2.baml
+E:\Programming\SnowMan\SnowMan\obj\x86\Debug\Window2.g.cs
